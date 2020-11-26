@@ -16,6 +16,7 @@
 
 
 <br />
+<br />
 
 Hi, I'm Alfiankan, a Full Stack Developer 🚀 from Indonesia, currently, I'm a Full Stack Developer at RSGM Soelastri Hospital and [Robohox Technology](http://robohox.com).
 
@@ -27,7 +28,7 @@ Hi, I'm Alfiankan, a Full Stack Developer 🚀 from Indonesia, currently, I'm a 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: git@alfiankan.com;
 
-## ⚡ 
+
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
