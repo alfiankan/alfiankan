@@ -36,9 +36,7 @@ Hi, I'm Alfiankan, a Full Stack Developer 🚀 from Indonesia, currently, I'm a 
 
 🚧 **In Progress:**
 <!-- TODO-IST:START -->
-- ⏳  Single App Auth Authanta
-- Minicroservices (Minimal Microservices Boilerplate)
-<!-- TODO-IST:END -->
+- Costumizable REST API
 
 
 
