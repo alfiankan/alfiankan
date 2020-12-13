@@ -31,7 +31,7 @@ Hi, I'm Alfiankan, a Full Stack Developer 🚀 from Indonesia, currently, I'm a 
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiankan&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiankan&layout=compact&langs_count=8" />
 <br/>
 
 🚧 **In Progress:**
