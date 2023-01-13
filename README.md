@@ -1,5 +1,4 @@
-## Its me Alfiankan
-I'm a final year informatics student having some experience in software engineering specially in backend, I love building impact and love open source
+I'm Software Engineer, love building impact and love open source
 
 
 ## Linkedin
