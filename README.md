@@ -1,4 +1,6 @@
-I'm Software Engineer, love building impact and love open source
+My name is Alfian Nur Fathoni, I am a software engineer who has worked a lot on the backend side. I experienced in developing api backend systems with microservices architecture and cloud native tool environment.
+
+I love building impact and love open source.
 
 
 ## Linkedin
